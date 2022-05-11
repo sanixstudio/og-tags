@@ -16,8 +16,8 @@ export default function Home() {
         <meta name="twitter:title" content="Wavely" />
         <meta name="google-site-verification" content="EA2JrUWQ7koRy7S83CXczwoDHJrru-iyUxWjSZ1MAAU" />
         <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
-        <meta name="og:image" content="/images/og_images/https://ucarecdn.com/26c3adb2-f069-4e00-b35a-0d9a9dad0be2/-/preview/400x400/" />
-        <meta name="twitter:image" content="/images/og_images/https://ucarecdn.com/26c3adb2-f069-4e00-b35a-0d9a9dad0be2/-/preview/400x400/" />
+        <meta name="og:image" content="https://ucarecdn.com/26c3adb2-f069-4e00-b35a-0d9a9dad0be2/-/preview/400x400/" />
+        <meta name="twitter:image" content="https://ucarecdn.com/26c3adb2-f069-4e00-b35a-0d9a9dad0be2/-/preview/400x400/" />
         <meta property="business:contact_data:locality" content="Palo Alto" />
         <meta property="business:contact_data:region" content="California" />
         <meta name="og:description" content="You are a step closer to finding a job that you want. Chat with your future manager directly and get hired now!" />
